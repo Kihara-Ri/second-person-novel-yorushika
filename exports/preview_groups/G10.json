@@ -1,0 +1,35 @@
+{
+  "group_id": "G10",
+  "group_label": "第10组通信",
+  "date_label": "5/31",
+  "source_file": "翻译双语对照_批次B.md",
+  "display_units": [
+    {
+      "unit_id": "G10-U01",
+      "unit_ids": [
+        "G10-U01"
+      ],
+      "speaker": "未判定",
+      "type": "异文",
+      "source_refs": [
+        "10-1"
+      ],
+      "paragraphs": [
+        {
+          "para_id": "G10-U01-P01",
+          "para_label": "P01",
+          "render_mode": "block",
+          "source_md": "そうか、君は今、これを読んでいるんだね。\n僕たちの手紙をずっとみていたんだね。",
+          "target_md": "原来如此，你现在正在读这个啊。\n你一直都在看着我们的信吧。",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "そうか、君は今、これを読んでいるんだね。\n僕たちの手紙をずっとみていたんだね。\n原来如此，你现在正在读这个啊。\n你一直都在看着我们的信吧。"
+        }
+      ],
+      "titleSource": "",
+      "titleTarget": "",
+      "titleLabel": "",
+      "titleTermNotes": []
+    }
+  ]
+}

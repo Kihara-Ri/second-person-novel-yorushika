@@ -1,0 +1,385 @@
+{
+  "group_id": "G25",
+  "group_label": "第25组通信",
+  "date_label": "10/20",
+  "source_file": "翻译双语对照_批次D.md",
+  "display_units": [
+    {
+      "unit_id": "G25-U01",
+      "unit_ids": [
+        "G25-U01"
+      ],
+      "speaker": "我",
+      "type": "来信",
+      "source_refs": [
+        "25-1"
+      ],
+      "paragraphs": [
+        {
+          "para_id": "G25-U01-P01",
+          "para_label": "P01",
+          "render_mode": "block",
+          "source_md": "拝啓\n先生、また少し日にちが経ちました。いかがお過しでしょうか。\n僕から続けて四通送るのも初めてですね。\n\n最近はよく罪と、それに与えられる罰のことを考えています。\nもちろん、詩も書いています。\n二つ書いたのですが、一つはあまりにも、そのまま先生のことを書いているので、書き終えてからこれは違うなと思い、やめました。\n一つを同封しておきます。月光浴という詩です。僕はこういう想像をよくします。いずれこうなれたら、と思うような、そういう景色です。\n\nまた手紙を送ります。\n敬具",
+          "target_md": "敬启\n老师，又过去了一些时日。您近来还好吗。\n这也是我头一次连续寄出第四封信。\n\n最近我常常在想，罪，以及那份罪该承受的惩罚。\n当然，我也还在写诗。\n我写了两首，其中有一首，实在太直接地写到了老师。写完以后，我觉得那样不对，便作罢了。\n另一首我放在信里了。题目叫《月光浴》。我常常会去想象这样的景色。那是一种让我觉得，要是终有一天能抵达那里就好了的景色。\n\n我还会再写信来。\n敬具",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "拝啓\n先生、また少し日にちが経ちました。いかがお過しでしょうか。\n僕から続けて四通送るのも初めてですね。\n\n最近はよく罪と、それに与えられる罰のことを考えています。\nもちろん、詩も書いています。\n二つ書いたのですが、一つはあまりにも、そのまま先生のことを書いているので、書き終えてからこれは違うなと思い、やめました。\n一つを同封しておきます。月光浴という詩です。僕はこういう想像をよくします。いずれこうなれたら、と思うような、そういう景色です。\n\nまた手紙を送ります。\n敬具\n敬启\n老师，又过去了一些时日。您近来还好吗。\n这也是我头一次连续寄出第四封信。\n\n最近我常常在想，罪，以及那份罪该承受的惩罚。\n当然，我也还在写诗。\n我写了两首，其中有一首，实在太直接地写到了老师。写完以后，我觉得那样不对，便作罢了。\n另一首我放在信里了。题目叫《月光浴》。我常常会去想象这样的景色。那是一种让我觉得，要是终有一天能抵达那里就好了的景色。\n\n我还会再写信来。\n敬具"
+        }
+      ],
+      "titleSource": "",
+      "titleTarget": "",
+      "titleLabel": "",
+      "titleTermNotes": []
+    },
+    {
+      "unit_id": "G25-U02",
+      "unit_ids": [
+        "G25-U02",
+        "G25-U03",
+        "G25-U04"
+      ],
+      "speaker": "我",
+      "type": "附诗",
+      "source_refs": [
+        "25-2",
+        "25-3",
+        "25-4"
+      ],
+      "paragraphs": [
+        {
+          "para_id": "G25-U02-L02",
+          "para_label": "L02",
+          "render_mode": "line",
+          "source_md": "貴方の足が月を{蹴|け}った",
+          "target_md": "你的脚踢向了月亮",
+          "notes": [],
+          "term_notes": [
+            {
+              "term": "蹴",
+              "matched_text": "蹴",
+              "reading": "け",
+              "short_gloss": "原稿中已标注读音：け。",
+              "work_function": "作者主动加了注音，说明它不是特别常见、可能易误读，或需要保留字形与读音的并置效果。",
+              "long_note": "当前尚未补入详细人工词条。前端至少应显示注音，并可将其视为后续优先补写的疑难词候选。"
+            }
+          ],
+          "search_text": "貴方の足が月を{蹴|け}った\n你的脚踢向了月亮\n蹴 原稿中已标注读音：け。 当前尚未补入详细人工词条。前端至少应显示注音，并可将其视为后续优先补写的疑难词候选。"
+        },
+        {
+          "para_id": "G25-U02-L03",
+          "para_label": "L03",
+          "render_mode": "line",
+          "source_md": "白い砂が夜灯みたいだ",
+          "target_md": "白色的沙，像夜里的灯火",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "白い砂が夜灯みたいだ\n白色的沙，像夜里的灯火"
+        },
+        {
+          "para_id": "G25-U02-L04",
+          "para_label": "L04",
+          "render_mode": "line",
+          "source_md": "貴方は気付いているんだろうか",
+          "target_md": "你是否已经察觉了呢",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "貴方は気付いているんだろうか\n你是否已经察觉了呢"
+        },
+        {
+          "para_id": "G25-U02-L05",
+          "para_label": "L05",
+          "render_mode": "line",
+          "source_md": "波の向こうに何かあった",
+          "target_md": "浪的那一头，有什么东西",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "波の向こうに何かあった\n浪的那一头，有什么东西"
+        },
+        {
+          "para_id": "G25-U02-L06",
+          "para_label": "L06",
+          "render_mode": "line",
+          "source_md": "それが何かわからなかった",
+          "target_md": "却不知道那究竟是什么",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "それが何かわからなかった\n却不知道那究竟是什么"
+        },
+        {
+          "para_id": "G25-U02-L07",
+          "para_label": "L07",
+          "render_mode": "line",
+          "source_md": "少し寂しい",
+          "target_md": "有一点寂寞",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "少し寂しい\n有一点寂寞"
+        },
+        {
+          "para_id": "G25-U02-L08",
+          "para_label": "L08",
+          "render_mode": "line",
+          "source_md": "足して、足して、溢れて",
+          "target_md": "添上，再添上，直至漫溢",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "足して、足して、溢れて\n添上，再添上，直至漫溢"
+        },
+        {
+          "para_id": "G25-U02-L09",
+          "para_label": "L09",
+          "render_mode": "line",
+          "source_md": "足して、足している分だけ~~増えて~~過ぎて",
+          "target_md": "添上，再添上的那些分量里~~渐多~~流逝",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "足して、足している分だけ~~増えて~~過ぎて\n添上，再添上的那些分量里~~渐多~~流逝"
+        },
+        {
+          "para_id": "G25-U02-L10",
+          "para_label": "L10",
+          "render_mode": "line",
+          "source_md": "夜の海を二人歩いた",
+          "target_md": "我们两人在夜海边走着",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "夜の海を二人歩いた\n我们两人在夜海边走着"
+        },
+        {
+          "para_id": "G25-U02-L11",
+          "para_label": "L11",
+          "render_mode": "line",
+          "source_md": "月の束が氷雨みたいだ",
+          "target_md": "一束束月光，像冰冷的雨",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "月の束が氷雨みたいだ\n一束束月光，像冰冷的雨"
+        },
+        {
+          "para_id": "G25-U02-L12",
+          "para_label": "L12",
+          "render_mode": "line",
+          "source_md": "貴方は気付いているんだろうか",
+          "target_md": "你是否已经察觉了呢",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "貴方は気付いているんだろうか\n你是否已经察觉了呢"
+        },
+        {
+          "para_id": "G25-U02-L13",
+          "para_label": "L13",
+          "render_mode": "line",
+          "source_md": "岩の隙間に何かあった",
+          "target_md": "岩石的缝隙里，有什么东西",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "岩の隙間に何かあった\n岩石的缝隙里，有什么东西"
+        },
+        {
+          "para_id": "G25-U02-L14",
+          "para_label": "L14",
+          "render_mode": "line",
+          "source_md": "それが何かわからなかった",
+          "target_md": "却不知道那究竟是什么",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "それが何かわからなかった\n却不知道那究竟是什么"
+        },
+        {
+          "para_id": "G25-U02-L15",
+          "para_label": "L15",
+          "render_mode": "line",
+          "source_md": "少し苦しい",
+          "target_md": "有一点难受",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "少し苦しい\n有一点难受"
+        },
+        {
+          "para_id": "G25-U03-L01",
+          "para_label": "L01",
+          "render_mode": "line",
+          "source_md": "足して、足して重ねて",
+          "target_md": "添上，再添上，一层层叠起",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "足して、足して重ねて\n添上，再添上，一层层叠起"
+        },
+        {
+          "para_id": "G25-U03-L02",
+          "para_label": "L02",
+          "render_mode": "line",
+          "source_md": "足して、足している分だけ過ぎて",
+          "target_md": "添上，再添上的那些分量里一味流去",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "足して、足している分だけ過ぎて\n添上，再添上的那些分量里一味流去"
+        },
+        {
+          "para_id": "G25-U03-L03",
+          "para_label": "L03",
+          "render_mode": "line",
+          "source_md": "月の中を生きる日々を",
+          "target_md": "活在月中的那些日子",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "月の中を生きる日々を\n活在月中的那些日子"
+        },
+        {
+          "para_id": "G25-U03-L04",
+          "para_label": "L04",
+          "render_mode": "line",
+          "source_md": "月日と誰かが言った",
+          "target_md": "有人把它们叫作岁月",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "月日と誰かが言った\n有人把它们叫作岁月"
+        },
+        {
+          "para_id": "G25-U03-L05",
+          "para_label": "L05",
+          "render_mode": "line",
+          "source_md": "~~なら月日を過ごすことは~~",
+          "target_md": "~~那么度过岁月，也就是~~",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "~~なら月日を過ごすことは~~\n~~那么度过岁月，也就是~~"
+        },
+        {
+          "para_id": "G25-U03-L06",
+          "para_label": "L06",
+          "render_mode": "line",
+          "source_md": "月の中で過ごす僕ら",
+          "target_md": "我们在月中消磨时日",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "月の中で過ごす僕ら\n我们在月中消磨时日"
+        },
+        {
+          "para_id": "G25-U03-L07",
+          "para_label": "L07",
+          "render_mode": "line",
+          "source_md": "いわば月光浴だろうか",
+          "target_md": "说起来，也算是在月光里沐浴吧",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "いわば月光浴だろうか\n说起来，也算是在月光里沐浴吧"
+        },
+        {
+          "para_id": "G25-U03-L08",
+          "para_label": "L08",
+          "render_mode": "line",
+          "source_md": "波を待つ　月を跨ぐ",
+          "target_md": "等着浪来　跨过月色",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "波を待つ　月を跨ぐ\n等着浪来　跨过月色"
+        },
+        {
+          "para_id": "G25-U03-L09",
+          "para_label": "L09",
+          "render_mode": "line",
+          "source_md": "身体は夜灯みたいに白く",
+          "target_md": "身体白得像夜里的灯",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "身体は夜灯みたいに白く\n身体白得像夜里的灯"
+        },
+        {
+          "para_id": "G25-U03-L10",
+          "para_label": "L10",
+          "render_mode": "line",
+          "source_md": "足して、足して、忘れて",
+          "target_md": "添上，再添上，然后忘记",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "足して、足して、忘れて\n添上，再添上，然后忘记"
+        },
+        {
+          "para_id": "G25-U03-L11",
+          "para_label": "L11",
+          "render_mode": "line",
+          "source_md": "足して、足している分だけ増える月日の上で",
+          "target_md": "在那越添越多的岁月之上",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "足して、足している分だけ増える月日の上で\n在那越添越多的岁月之上"
+        },
+        {
+          "para_id": "G25-U03-L12",
+          "para_label": "L12",
+          "render_mode": "line",
+          "source_md": "僕らの足が水を蹴った",
+          "target_md": "我们的脚踢起了水",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "僕らの足が水を蹴った\n我们的脚踢起了水"
+        },
+        {
+          "para_id": "G25-U03-L13",
+          "para_label": "L13",
+          "render_mode": "line",
+          "source_md": "背びれが光って揺らめいた",
+          "target_md": "背鳍闪着光，摇摇曳曳",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "背びれが光って揺らめいた\n背鳍闪着光，摇摇曳曳"
+        },
+        {
+          "para_id": "G25-U03-L14",
+          "para_label": "L14",
+          "render_mode": "line",
+          "source_md": "僕らは泳いでいるんだろうか",
+          "target_md": "我们是不是正在游动呢",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "僕らは泳いでいるんだろうか\n我们是不是正在游动呢"
+        },
+        {
+          "para_id": "G25-U03-L15",
+          "para_label": "L15",
+          "render_mode": "line",
+          "source_md": "魚の僕は息を吸った",
+          "target_md": "身为鱼的我，吸了一口气",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "魚の僕は息を吸った\n身为鱼的我，吸了一口气"
+        },
+        {
+          "para_id": "G25-U04-L01",
+          "para_label": "L01",
+          "render_mode": "line",
+          "source_md": "貴方もようやく気が付いた",
+          "target_md": "你终于也察觉到了",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "貴方もようやく気が付いた\n你终于也察觉到了"
+        },
+        {
+          "para_id": "G25-U04-L02",
+          "para_label": "L02",
+          "render_mode": "line",
+          "source_md": "月が眩しい",
+          "target_md": "月亮如此刺眼",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "月が眩しい\n月亮如此刺眼"
+        },
+        {
+          "para_id": "G25-U04-P01",
+          "para_label": "P01",
+          "render_mode": "block",
+          "source_md": "> 夜の砂がまとわりついた\n> 風のない海にいる\n>\n> 鳥の影が動いていた\n> 雲の隙間にいるみたい\n>\n> 貴方はあの日差しの向こうを見たことがあるだろうか\n>\n> 例えばあの雲の向こう側も\n> あの道の先に何かがあると~~君は~~貴方は言う",
+          "target_md": "> 夜里的砂缠了上来\n> 我们在一片无风的海里\n>\n> 鸟的影子轻轻动了一下\n> 像栖在云缝之间\n>\n> 你可曾看见过那道日光的彼岸\n>\n> 比如那片云的后头\n> 那条路的尽头一定也有什么，~~你~~你这样说",
+          "notes": [],
+          "term_notes": [],
+          "search_text": "> 夜の砂がまとわりついた\n> 風のない海にいる\n>\n> 鳥の影が動いていた\n> 雲の隙間にいるみたい\n>\n> 貴方はあの日差しの向こうを見たことがあるだろうか\n>\n> 例えばあの雲の向こう側も\n> あの道の先に何かがあると~~君は~~貴方は言う\n> 夜里的砂缠了上来\n> 我们在一片无风的海里\n>\n> 鸟的影子轻轻动了一下\n> 像栖在云缝之间\n>\n> 你可曾看见过那道日光的彼岸\n>\n> 比如那片云的后头\n> 那条路的尽头一定也有什么，~~你~~你这样说"
+        }
+      ],
+      "titleSource": "月光浴",
+      "titleTarget": "月光浴",
+      "titleLabel": "月光浴",
+      "titleTermNotes": []
+    }
+  ]
+}
